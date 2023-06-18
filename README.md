@@ -14,11 +14,11 @@ N/A
 Simplify, code to make code much more efficent and accessible 
 
 ## Site Screenshot 
-![image](Develop/Screenshot.png)
+![image](Screenshot.png)
 
 ## Link to site
 
-[Click to visit live site](https://ayrh1.github.io/Challenge1/)
+[Click to visit live site](https://ayrh1.github.io/challenge01/)
 
 ## Credits
 https://www.youtube.com/@tryminim
